@@ -38,4 +38,4 @@ Here's a link to the [Quoting Text Section](#quoting-text)
 - [ ] Finish Lab 1
 
 ### Pictures!
-![Image of Github Mascot](https://octodex.github.com/)
+![Image of Github Mascot](/ucsd-triton.png)
